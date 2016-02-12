@@ -1,0 +1,51 @@
+body{
+	margin: 0px; padding:0;
+}
+
+div header ul li{
+	float:right;
+	list-style-type: none;
+	margin-right: 10px;
+	
+}
+
+.spanBot{
+	background: linear-gradient(180deg, #369, #396);
+	border-radius:3px ;
+	color: #fff;
+	font: 14px serif;
+	padding:3px;
+}
+
+.spanBot:hover{
+	background: linear-gradient(180deg, #396, #369);
+	border-radius:5px ;
+	padding:3px;
+}
+
+/* / #split{
+	width: 30px;
+	height: 30px;
+	background-position: 0 20px;
+} */
+
+section{
+	
+	background-color: #337;
+	position: absolute; top:30%;
+	left: 35%;
+}
+
+section img{
+	margin-left: 20%;
+}
+
+#search{
+	width: 400px;
+	margin-bottom: 10px;
+}
+
+footer div-last-child{
+	float:right;
+	
+}
